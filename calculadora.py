@@ -15,10 +15,16 @@ print("4. Dividir")
 print("5. Potencia")
 print("6. Logaritmo")
 
+
 instruccion = int(input("Con que operador quieres (?) "))
 
+if instruccion >= 7:
+    print("Valor no vàlido.")
+else:
+    print("Puedes seguir usando el programa. ")
+
 if instruccion==1:
-    y+x
+    y + x
     print("El valor de la operaciòn es: ", y+x)
 
 if instruccion==2:

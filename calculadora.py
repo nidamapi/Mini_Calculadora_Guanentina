@@ -1,4 +1,5 @@
 #### Output
+import math
 print("calculadora.py")
 print("Operadores")
 print("=========================================")
@@ -31,7 +32,10 @@ if instruccion==3:
 if instruccion==4:
     y/x
     print("El valor de la operaciòn es: ", y/x)
-    
 
+if instruccion==5:
+    y ** x
+    print("El valor de la operaciòn es: ", y ** x)
 
-
+if instruccion==6:
+    print("El valor de la operaciòn es: ", math.log(y,x))

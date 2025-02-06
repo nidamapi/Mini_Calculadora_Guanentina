@@ -35,7 +35,7 @@ Si opc no es vàlido, el resultado serà "No vàlido".
 r: Resultado de la operaciòn seleccionada.
 
 # Diseño
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
  
 # Construcciòn
  
